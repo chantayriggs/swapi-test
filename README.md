@@ -8,8 +8,8 @@ The objective of this task is to develop a code that retrieves data from the [SW
 
 
 ## Requirements
-1. It is preferable to use JavaScript or TypeScript.
-2. You are free to choose any library for implementation (React, Vue, Angular, etc.) or use plain JavaScript.
+1. It is preferable to use React and either JavaScript or TypeScript.
+2. You are free to choose any library for implementation or use plain JavaScript.
 3. The focus of this task is on the code that interacts with the API; CSS styling is not necessary.
 
 ## Method
