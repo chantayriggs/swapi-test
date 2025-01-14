@@ -14,8 +14,7 @@ Note: Implement the logic in such a way that it optimizes rendering performance.
 
 
 ## Requirements
-1. It is preferable to use React and either JavaScript or TypeScript.
-2. The focus of this task is on the code that interacts with the API; CSS styling is not necessary.
+The focus of this task is on the code that interacts with the API; CSS styling is not necessary.
 
 ## Method
-Can either use [CodeSandbox](http://codesandbox.io/) and develop your solution there, or you can fork this repo and open a PR to submit your solution.
+You will be given a space to develop your solution in [CodeSandbox](http://codesandbox.io/).
